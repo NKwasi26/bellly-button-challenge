@@ -1,4 +1,4 @@
-# bellly-button-challenge
+# Bellly-Button-Challenge
 Using the D3 Javascript library to generate an interactive dashboard to explore the belly button biodiversity dataset.
 # Summary
 This Module 14 Challenge involves building an interactive dashboard to explore the Belly Button Biodiversity dataset. This dataset catalogs the microbes that colonise human navels, revealing that a small number of microbial species are common among more than 70% of people, while the majority are relatively rare.
